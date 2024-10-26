@@ -1,0 +1,25 @@
+					Anotações Criando Projeto no Eclipse - TALITA MENDONÇA MARQUES
+
+Ao inicio do video entendi sobre o porque haver a pasta src e a bin, assim como também que dentro
+da src está meu código-fonte e a bin é onde está o compilado do meu código. Vi sobre a criação de
+pacotes dentro da src que são pastas onde estará agrupadas as bibliotecas que estarei utilizando ao longo do programa.
+
+Com o video sobre criação de pacote arquivo, dentro dele já criando funções e então começando a main, 
+não havia feito nenhuma atividade iniciando dessa forma então foi possível compreender um pouco melhor
+sobre as estruturas desses arquivos e como eles ficam dentro do package. 
+Muito interessante também ver na pratica ao executar a main a criação do arquivo de texto dentro do sistema.
+
+Mecanismo try/catch é obrigado colocar para manipulações que requerem autorização  do SO.
+Ao manipular arquivos é necessário: abrir, salvar e fechar. ex:"filewriter nome(abrir); nome.write(salvar);  nome.close(fechar)"
+
+Dentro da main foi criada a variável idade, chamei o procedimento para criar o arquivo, 
+ao executa-lo mais de uma vez, embora apareça a mensagem no console de o arquivo ja existir, 
+dentro da main foi invocada também o procedimento de gravar dentro do arquivo uma cadeia de caracteres, 
+foram passados 2 parametros, e também foi possivel ao invez de colocar a cadeia de caracteres String, 
+mas tirar de dentro da main o valor contido dentro de outras variaveis através da String.valueOf();
+
+Com este projeto foi criado, gravado e lido um arquivo deste projeto. 
+Achei muito interessante as funcionalidades existentes dentro do java embora não conheça muitas.
+A criatividade fica um pouco travada ao buscar resoluções sem saber dessas possibilidades
+Mas ao longo do vídeo foi possível ver as formas que se cria o arquivo, 
+como inserir dados dentro dele e inclusive visualizar estes dados com comandos limpos.
